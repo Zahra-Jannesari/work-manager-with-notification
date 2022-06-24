@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkManager&amp;notification</string>
+    <string name="channel_main">main channel</string>
+    <string name="channel_description">for basics</string>
+</resources>
